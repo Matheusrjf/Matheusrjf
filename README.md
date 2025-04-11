@@ -55,7 +55,7 @@ Boot, e arquitetura de microserviços. Meu foco principal está em entregar cód
 </table>
 </div>
 
-    <div style="text-align: center;">
+    
   <div style="display: inline-block; height: 100%;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=otaviossousa&show_icons=true&theme=dracula&locale=en&layout=compact" />
