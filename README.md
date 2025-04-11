@@ -4,8 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusrjf&show_icons=true&theme=radical)
 
-Olá! Sou Matheus França, um Engenheiro de Software com uma paixão por desenvolvimento de software robusto e escalável. Tenho expertise em projetos envolvendo Java, Spring 
-Boot, e arquitetura de microserviços. Meu foco principal está em entregar código limpo e eficiente, utilizando melhores práticas de desenvolvimento e padrões de design.
+Olá! Sou Matheus França, um Engenheiro de Software com uma paixão por desenvolvimento de software robusto e escalável. Arquitetura de microserviços. Meu foco principal está em entregar código limpo e eficiente, utilizando melhores práticas de desenvolvimento e padrões de design.
 
 <h2 align="center">Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
